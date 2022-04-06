@@ -1,0 +1,1 @@
+# SM64_totals_tracker
