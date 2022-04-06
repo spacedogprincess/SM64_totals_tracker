@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(0, 0, 0, 255);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+  
+
+/* The background here is set for preview purposes in a web browser. if you're using this as an OBS overlay, make sure to empty the backround-image property*/
+div.star_roster_supercontainer {
+  background-image: url("");
+  background-position: left top;
+  width: 1920px;
+  height: 1080px;
+  color: #FFFFFF;
+  font-family: 'Courier Prime', monospace;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+  z-index: -10;
+  position: relative;
+}
+
+div.star_roster_container{
+  background-color:rgba(0, 0, 0, 0);
+  background-position: left top;
+  width: 333px;
+  height: 485px;
+  color: #FFFFFF;
+  font-family: 'Mirza', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+  z-index: 0;
+  position: absolute;
+  top:75px;
+  left:1142px;
+} 
+
+div.header_title{
+  font-size: 22px;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top:0px;
+  left:30px;
+}
+
+div.course_title{
+  font-size: 22px;
+  line-height:25px;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top:25px;
+  left:8px;
+}
+
+div.star_grouping{
+  width:144px;
+  font-size: 0px;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top:27px;
+  left:95px;
+}
+
+div.star_grouping_100{
+  width:25px;
+  font-size: 0px;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top:27px;
+  left:305px;
+}
+
+div.coin_icon{
+  width:144px;
+  font-size:0px;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top:27px;
+  left:240px;
+}
+
+div.coin_count_x{
+  font-size: 20px;
+  line-height:25px;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top:25px;
+  left:262px;
+}
+
+div.coin_count{
+  width:40px;
+  font-size: 20px;
+  line-height:25px;
+  font-weight: 400;
+  text-align: right;
+  position: absolute;
+  top:25px;
+  left:261px;
+}
+
+img.star_icon{
+  width:16px;
+  height:16px;
+  border:0px;
+  border-style:solid;
+  border-color:#FFFFFF;
+  padding:4 4 5 4;
+  margin:0px;
+}
+
+div.castle_secret_stars{
+  width:350px;
+  font-size: 0px;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top:428px;
+  left:12px;
+}

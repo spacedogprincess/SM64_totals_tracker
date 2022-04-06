@@ -1,0 +1,243 @@
+{
+"changeID":1,
+
+"totals_data":[
+
+  {
+    "stars":{
+      "star1":1,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":1,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":2,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":3,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":4,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":5,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":6,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":7,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":8,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":9,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":10,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":11,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":12,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":13,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":14,
+    "coinCount":0
+  },
+
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0
+    },
+    "courseID":15,
+    "coinCount":0
+  },
+  
+  {
+    "stars":{
+      "star1":0,
+      "star2":0,
+      "star3":0,
+      "star4":0,
+      "star5":0,
+      "star6":0,
+      "star7":0,
+      "star8":0,
+      "star9":0,
+      "star10":0,
+      "star11":0,
+      "star12":0,
+      "star13":0,
+      "star14":0,
+      "star15":0
+    },
+    "courseID":0,
+    "capBoxes":{
+      "wingCap":0,
+      "metalCap":0,
+      "vanishCap":0
+    }
+  }
+
+]
+}
